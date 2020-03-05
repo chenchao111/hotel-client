@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 酒店预订系统客户端
 
 ## Build Setup
@@ -24,3 +25,7 @@ npm run e2e
 # run all tests
 npm test
 ```
+=======
+# hotel-client
+酒店预订系统-h5-客户端
+>>>>>>> 8bf7a7e361e940806758a0f6046938f7a0014d23
