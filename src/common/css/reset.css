@@ -1,0 +1,558 @@
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, .1);
+}
+*{
+  -webkit-touch-callout:none;  /*系统默认菜单被禁用*/
+  -webkit-user-select:none; /*webkit浏览器*/
+  -khtml-user-select:none; /*早期浏览器*/
+  -moz-user-select:none;/*火狐*/
+  -ms-user-select:none; /*IE10*/
+  user-select:none;
+}
+input,textarea {
+  -webkit-user-select:auto; /*webkit浏览器*/
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+}
+*{
+  /* -webkit-tap-highlight-color: #eee; */
+  /* -webkit-tap-highlight-color: transparent;  */
+}
+blockquote,
+body,
+button,
+dd,
+div,
+dl,
+dt,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+legend,
+li,
+ol,
+p,
+pre,
+span,
+table,
+td,
+textarea,
+th,
+ul {
+  font-family: "Microsoft YaHei", "PingFang SC", "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+  margin: 0;
+  padding: 0
+}
+
+address,
+cite,
+em,
+i {
+  font-style: normal;
+}
+
+body {
+  -webkit-appearance: none;
+}
+
+html,
+body {
+  background: #fff;
+  height: 100%;
+  -webkit-overflow-scrolling: touch; /* 解决在IOS上滚动惯性失效的问题 */
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+img {
+  vertical-align: top;
+  border: 0;
+}
+
+textarea,
+input {
+  -webkit-appearance: none;
+  outline: none;
+  border: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+.clearfix:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.bsbb {
+  box-sizing: border-box;
+}
+
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
+}
+
+input:focus,
+select:focus {
+  outline: 0
+}
+
+.tl {
+  text-align: left !important
+}
+
+.tc {
+  text-align: center !important
+}
+
+.tr {
+  text-align: right !important
+}
+
+.pr {
+  position: relative
+}
+
+.mask {
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9
+}
+
+.loading {
+  width: 200px;
+  height: 140px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  border-radius: 10px
+}
+
+.loading>div {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 50%;
+  margin-left: -30px;
+  top: 50%;
+  margin-top: -30px
+}
+
+.loading>div>div {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  top: 10px;
+  left: 10px;
+  transform-origin: 20px 20px;
+  border-radius: 8px;
+  animation: spin-a 2s infinite cubic-bezier(.5, 0, .5, 1)
+}
+
+.loading>div>.c2 {
+  top: 10px;
+  left: auto;
+  right: 10px;
+  transform-origin: -4px 20px;
+  animation: spin-b 2s infinite cubic-bezier(.5, 0, .5, 1)
+}
+
+.loading>div>.c3 {
+  top: auto;
+  left: auto;
+  right: 10px;
+  bottom: 10px;
+  transform-origin: -4px -4px;
+  animation: spin-c 2s infinite cubic-bezier(.5, 0, .5, 1)
+}
+
+.loading>div>.c4 {
+  top: auto;
+  bottom: 10px;
+  transform-origin: 20px -4px;
+  animation: spin-d 2s infinite cubic-bezier(.5, 0, .5, 1)
+}
+
+@keyframes spin-a {
+  0% {
+    transform: rotate(90deg)
+  }
+
+  0% {
+    transform: rotate(90deg)
+  }
+
+  50% {
+    transform: rotate(180deg)
+  }
+
+  75% {
+    transform: rotate(270deg)
+  }
+
+  100% {
+    transform: rotate(360deg)
+  }
+}
+
+@keyframes spin-b {
+  0% {
+    transform: rotate(90deg)
+  }
+
+  25% {
+    transform: rotate(90deg)
+  }
+
+  25% {
+    transform: rotate(180deg)
+  }
+
+  75% {
+    transform: rotate(270deg)
+  }
+
+  100% {
+    transform: rotate(360deg)
+  }
+}
+
+@keyframes spin-c {
+  0% {
+    transform: rotate(90deg)
+  }
+
+  25% {
+    transform: rotate(90deg)
+  }
+
+  50% {
+    transform: rotate(180deg)
+  }
+
+  50% {
+    transform: rotate(270deg)
+  }
+
+  100% {
+    transform: rotate(360deg)
+  }
+}
+
+@keyframes spin-d {
+  0% {
+    transform: rotate(90deg)
+  }
+
+  25% {
+    transform: rotate(90deg)
+  }
+
+  50% {
+    transform: rotate(180deg)
+  }
+
+  75% {
+    transform: rotate(270deg)
+  }
+
+  75% {
+    transform: rotate(360deg)
+  }
+
+  100% {
+    transform: rotate(360deg)
+  }
+}
+
+.loading>span {
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 50%;
+  margin-top: 30px;
+  color: #fff;
+  font-size: 12px;
+  text-align: center
+}
+
+@-webkit-keyframes load {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0)
+  }
+
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg)
+  }
+}
+
+@keyframes load {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0)
+  }
+
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg)
+  }
+}
+
+.van-dialog__message {
+  text-align: center;
+  font-size: 19px;
+  font-family: PingFangSC-Medium;
+  font-weight: 500;
+  color: rgba(51, 51, 51, 1)
+}
+
+/* .van-cell {
+  padding: 0
+} */
+
+.van-cell:not(:last-child)::after {
+  border-bottom: none
+}
+
+.van-hairline--top-bottom::after {
+  border-bottom: none
+}
+
+/* .shop-show-set .van-field__body {
+  line-height: 43px
+} */
+
+.shop-setting-page .van-icon-success {
+  background-color: #ececec
+}
+
+.login-phone-page .van-cell__value--alone {
+  display: flex
+}
+
+.login-phone-page .van-field__body {
+  width: 100%
+}
+
+.auth-name-page .van-cell {
+  width: 98%
+}
+
+.login-phone-page .van-actionsheet__content {
+  padding: 0 12px;
+  box-sizing: border-box
+}
+
+.my-edit-page .shop-info .van-field__control {
+  text-align: right
+}
+
+.van-tabbar-item__icon {
+  width: 22px;
+  height: 22px;
+}
+
+.product-page .tab-list-title .van-hairline--top-bottom::after {
+  display: none;
+}
+.home-page .unactive.van-hairline--surround::after {
+  border-radius: 30px !important;
+  border-color: rgba(170, 170, 170, 1);
+}
+.product-page .unactive.van-hairline--surround::after,
+.stock-detail-page .unactive.van-hairline--surround::after,
+.stock-list-page .unactive.van-hairline--surround::after,
+.insure-list-page .unactive.van-hairline--surround::after,
+.fund-list-page .unactive.van-hairline--surround::after,
+.fund-list-page-all .unactive.van-hairline--surround::after {
+  border-radius: 25px !important;
+  border-color: rgba(170, 170, 170, 1);
+}
+.home-page .active.van-hairline--surround::after {
+  border-radius: 30px;
+  border-color: rgb(227, 169, 83);
+}
+.product-page .active.van-hairline--surround::after,
+.stock-detail-page .active.van-hairline--surround::after,
+.stock-list-page .active.van-hairline--surround::after,
+.insure-list-page .active.van-hairline--surround::after,
+.fund-list-page .active.van-hairline--surround::after,
+.fund-list-page-all .active.van-hairline--surround::after {
+  border-radius: 25px;
+  border-color: rgb(227, 169, 83);
+}
+
+.insurance-list-page .order-list-cell-component .van-list__finished-text {
+  font-size: 14px;
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  color: rgba(170, 170, 170, 1);
+}
+.insurance-list-page .van-tab {
+  flex-basis: 18% !important;
+}
+.insurance-list-page .van-hairline--top-bottom::after {
+  border: none;
+}
+#qrcode img {
+  margin: auto !important;
+}
+.van-checkbox__icon, .van-checkbox__icon img{
+  width: 15px;
+  height: 15px;
+}
+.advertorial-product-detail-page .van-checkbox__label {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+}
+.card-component .van-checkbox__label{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  width: 100%;
+}
+.el-input__inner {
+  border: none !important;
+}
+.el-select-dropdown {
+  width: 98% !important;
+  left: 1% !important;
+  box-sizing: border-box;
+}
+/* .el-scrollbar {
+  max-height: 210px;
+} */
+.el-popper .popper__arrow::after {
+  content: "" !important;
+  border-width: 0 !important;
+}
+.selected, .el-input__inner {
+  color: rgba(227, 169, 82, 1) !important;
+}
+.fund-list-page-all .el-input__inner {
+  text-align: center;
+}
+.fund-list-page-all .van-cell {
+  background: #fff;
+}
+.my-setting-page .van-cell {
+  height: 55px;
+}
+.van-icon-arrow:before {
+  font-size: 14px;
+}
+.shop-show-set .van-field__control {
+  text-align: right
+}
+.shop-show-set .van-field__body {
+  line-height: 43px
+}
+.shop-show-set .van-field__control {
+  text-align: right
+}
+.shop-show-set .van-field__body {
+  line-height: 43px
+}
+.van-card__content {
+  padding-left: 10px;
+}
+.van-card__footer {
+  position: absolute;
+  right: 10px;
+  bottom: 8px;
+}
+.shop-list .van-card__title {
+  font-size: 18px;
+  padding-top: 10px;
+}
+.shop-list .van-card__price {
+  color: #fe5455;
+}
+.shop-list .van-card__desc {
+  margin-top: 10px;
+}
+.shop-list .van-card__price-integer {
+  font-size: 22px;
+}
+.market-page .van-overlay {
+  z-index: 1 !important;
+}
+.buy-car-list .van-card {
+  height: 80px;
+}
+.buy-car-list .van-card__header, .buy-car-list .van-card__content {
+  height: 60px;
+  min-height: 60px;
+}
+.buy-car-list .van-card__price {
+  color: #fe5455;
+}
+.buy-car-list .van-card__thumb{
+  width: 60px;
+  height: 60px;
+}
+.van-contact-edit__buttons {
+  padding: 40px 0 0;
+}
+.van-contact-edit__buttons button:nth-child(2) {
+  display: none;
+}
+.label {
+  color: #202020;
+  font-weight: 300;
+}
+.van-field__control {
+  font-weight: 400;
+}

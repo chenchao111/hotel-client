@@ -1,0 +1,132 @@
+.flex-p {
+  display: flex;
+  flex-flow: row nowrap;
+}
+.flex-c-0 {
+  flex: 0 1 auto;
+}
+.flex-c-1 {
+  flex: 1 1 auto;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.mr-10 {
+  margin-right: 10px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.ml-15 {
+  margin-left: 15px;
+}
+.mr-15 {
+  margin-right: 15px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.ml-30 {
+  margin-left: 30px;
+}
+.mr-30 {
+  margin-right: 30px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.tl {
+  text-align: left;
+}
+.tr {
+  text-align: righe;
+}
+.tt {
+  text-align: center;
+}
+.w33 {
+  width: 33%;
+}
+.w30 {
+  width: 30%;
+}
+.w40 {
+  width: 40%;
+}
+.w50 {
+  width: 50%;
+}
+.w70 {
+  width: 70%;
+}
+.w80 {
+  width: 80%;
+}
+.w25 {
+  width: 25%;
+}
+.w20 {
+  width: 20%;
+}
+.w15 {
+  width: 15%;
+}
+.one-line {
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+.two-line {
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  /* autoprefixer: off */
+  -webkit-box-orient: vertical;
+  /* autoprefixer: on */
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.display-box {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -o-box;
+  display: box;
+}
+.display-flex{
+  display: -webkit-flex;
+  display: flex;
+}
+.box-flex-1 {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+}
+.van-tabs__wrap {
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+

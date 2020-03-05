@@ -1,0 +1,24 @@
+{
+  "name": "师范&联大酒店(淮南师范&联合大学店 no1)",
+  "cover": "/hotel/home.jpg",
+  "images": [
+    "/hotel/preview/1.jpg",
+    "/hotel/preview/2.jpg",
+    "/hotel/preview/3.jpg",
+    "/hotel/preview/4.jpg",
+    "/hotel/preview/5.jpg",
+    "/hotel/preview/6.jpg",
+    "/hotel/preview/7.jpg",
+    "/hotel/preview/8.jpg",
+    "/hotel/preview/9.jpg",
+    "/hotel/preview/10.jpg",
+    "/hotel/preview/11.jpg",
+    "/hotel/preview/12.jpg",
+    "/hotel/preview/13.jpg",
+    "/hotel/preview/14.jpg",
+    "/hotel/preview/15.jpg"
+  ],
+  "location": "安徽省淮南市田家庵区洞山西路淮南师范学院新区大门正对面向东80米(安徽省淮南市师范&联合大学对面)",
+  "phone": "18601136002",
+  "rooms": [1, 2, 3, 4, 5, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+}

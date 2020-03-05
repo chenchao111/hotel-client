@@ -1,0 +1,20 @@
+[
+  {
+    "type": 1,
+    "img": "/hotel/icon/food.png",
+    "title": "解渴饮料",
+    "list":[]
+  },
+  {
+    "type": 2,
+    "img": "/hotel/icon/health.png",
+    "title": "饥饿小食",
+    "list":[]
+  },
+  {
+    "type": 3,
+    "img": "/hotel/icon/noodles.png",
+    "title": "安全用品",
+    "list":[]
+  }
+]

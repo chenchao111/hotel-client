@@ -1,0 +1,1 @@
+export const prefix = 'http://sl.jiangedev.com:9999'

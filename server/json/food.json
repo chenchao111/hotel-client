@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "image": "/hotel/food/1.jpg",
+    "title": "农夫山泉550ml",
+    "desc": "农夫山泉550ml",
+    "price": 2,
+    "isBuy": true
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "image": "/hotel/food/2.jpg",
+    "title": "农夫山泉380ml",
+    "desc": "农夫山泉380ml",
+    "price": 1.5,
+    "isBuy": true
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "image": "/hotel/food/3.jpg",
+    "title": "农夫山泉1.5L",
+    "desc": "农夫山泉1.5L",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "image": "/hotel/food/4.jpg",
+    "title": "怡宝纯净水555ml",
+    "desc": "怡宝纯净水555ml",
+    "price": 2,
+    "isBuy": true
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "image": "/hotel/food/5.jpg",
+    "title": "怡宝纯净水350ml",
+    "desc": "怡宝纯净水350ml",
+    "price": 1.5,
+    "isBuy": true
+  },
+  {
+    "id": 6,
+    "type": 1,
+    "image": "/hotel/food/6.jpg",
+    "title": "怡宝纯净水1.555L",
+    "desc": "怡宝纯净水1.555L",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 7,
+    "type": 1,
+    "image": "/hotel/food/7.jpg",
+    "title": "哇哈哈纯净水596ml",
+    "desc": "哇哈哈纯净水596ml",
+    "price": 1.5,
+    "isBuy": true
+  },
+  {
+    "id": 8,
+    "type": 1,
+    "image": "/hotel/food/8.jpg",
+    "title": "哇哈哈纯净水350ml",
+    "desc": "哇哈哈纯净水350ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 9,
+    "type": 1,
+    "image": "/hotel/food/9.jpg",
+    "title": "百岁山纯净水570ml",
+    "desc": "百岁山纯净水570ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 10,
+    "type": 1,
+    "image": "/hotel/food/10.jpg",
+    "title": "百岁山纯净水348ml",
+    "desc": "百岁山纯净水348ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "image": "/hotel/food/11.jpg",
+    "title": "景田纯净水560ml",
+    "desc": "景田纯净水560ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 12,
+    "type": 1,
+    "image": "/hotel/food/12.jpg",
+    "title": "景田纯净水360ml",
+    "desc": "景田纯净水360ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "image": "/hotel/food/13.jpg",
+    "title": "美年达听装200ml",
+    "desc": "美年达听装200ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 14,
+    "type": 1,
+    "image": "/hotel/food/14.jpg",
+    "title": "雪碧听装200ml",
+    "desc": "雪碧听装200ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 15,
+    "type": 1,
+    "image": "/hotel/food/15.jpg",
+    "title": "可乐听装200ml",
+    "desc": "可乐听装200ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 16,
+    "type": 1,
+    "image": "/hotel/food/15.jpg",
+    "title": "可乐瓶装550ml",
+    "desc": "可乐瓶装550ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 16,
+    "type": 1,
+    "image": "/hotel/food/16.jpg",
+    "title": "可乐瓶装550ml",
+    "desc": "可乐瓶装550ml",
+    "price": 3.5,
+    "isBuy": true
+  },
+  {
+    "id": 17,
+    "type": 1,
+    "image": "/hotel/food/17.jpg",
+    "title": "美年达瓶装550ml",
+    "desc": "美年达瓶装550ml",
+    "price": 3.5,
+    "isBuy": true
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "id": 1,
+    "name": "（101）豪华大床房",
+    "type": 1,
+    "typeDesc": "豪华大床房",
+    "cover": "/hotel/rooms/101/cover.jpg",
+    "images": ["/hotel/rooms/101/room/1.jpg", "/hotel/rooms/101/room/2.jpg", "/hotel/rooms/101/room/3.jpg", "/hotel/rooms/101/room/4.jpg", "/hotel/rooms/101/room/5.jpg"],
+    "isCheck": false,
+    "price": 318,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }, {
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 2,
+    "name": "（102）豪华大床房",
+    "type": 1,
+    "typeDesc": "豪华大床房",
+    "cover": "/hotel/rooms/102/cover.jpg",
+    "images": ["/hotel/rooms/102/room/1.jpg", "/hotel/rooms/102/room/2.jpg", "/hotel/rooms/102/room/3.jpg"],
+    "isCheck": false,
+    "price": 218,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 3,
+    "name": "（103）豪华大床房",
+    "type": 1,
+    "typeDesc": "豪华大床房",
+    "cover": "/hotel/rooms/103/cover.jpg",
+    "images": ["/hotel/rooms/103/room/1.jpg", "/hotel/rooms/103/room/2.jpg", "/hotel/rooms/103/room/3.jpg"],
+    "isCheck": true,
+    "price": 258,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 4,
+    "name": "（104）豪华大床房",
+    "type": 1,
+    "typeDesc": "豪华大床房",
+    "cover": "/hotel/rooms/104/cover.jpg",
+    "images": ["/hotel/rooms/104/room/1.jpg", "/hotel/rooms/104/room/2.jpg", "/hotel/rooms/104/room/3.jpg"],
+    "isCheck": true,
+    "price": 218,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 5,
+    "name": "（105）标准大床房",
+    "type": 2,
+    "typeDesc": "标准大床房",
+    "cover": "/hotel/rooms/105/cover.jpg",
+    "images": ["/hotel/rooms/105/room/1.jpg", "/hotel/rooms/105/room/2.jpg", "/hotel/rooms/105/room/3.jpg"],
+    "isCheck": false,
+    "price": 318,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }, {
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 6,
+    "name": "（106）标准大床房",
+    "type": 2,
+    "typeDesc": "标准大床房",
+    "cover": "/hotel/rooms/106/cover.jpg",
+    "images": ["/hotel/rooms/106/room/1.jpg", "/hotel/rooms/106/room/2.jpg", "/hotel/rooms/106/room/3.jpg"],
+    "isCheck": true,
+    "price": 218,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 7,
+    "name": "（107）标准大床房",
+    "type": 2,
+    "typeDesc": "标准大床房",
+    "cover": "/hotel/rooms/107/cover.jpg",
+    "images": ["/hotel/rooms/107/room/1.jpg", "/hotel/rooms/107/room/2.jpg", "/hotel/rooms/107/room/3.jpg"],
+    "isCheck": false,
+    "price": 218,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 8,
+    "name": "（108）标准大床房",
+    "type": 3,
+    "typeDesc": "标准大床房",
+    "cover": "/hotel/rooms/108/cover.jpg",
+    "images": ["/hotel/rooms/108/room/1.jpg", "/hotel/rooms/108/room/2.jpg", "/hotel/rooms/108/room/3.jpg"],
+    "isCheck": true,
+    "price": 199,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }, {
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 9,
+    "name": "（109）豪华单人房",
+    "type": 4,
+    "typeDesc": "豪华单人房",
+    "cover": "/hotel/rooms/109/cover.jpg",
+    "images": ["/hotel/rooms/109/room/1.jpg", "/hotel/rooms/109/room/2.jpg", "/hotel/rooms/109/room/3.jpg"],
+    "isCheck": false,
+    "price": 188,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }, {
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  },
+  {
+    "id": 10,
+    "name": "（110）标准单人房",
+    "type": 5,
+    "typeDesc": "标准单人房",
+    "cover": "/hotel/rooms/110/cover.jpg",
+    "images": ["/hotel/rooms/110/room/1.jpg", "/hotel/rooms/110/room/2.jpg", "/hotel/rooms/110/room/3.jpg"],
+    "isCheck": false,
+    "price": 168,
+    "tags": ["1层", "有窗户", "10~15㎡", "大床", "2人入住"],
+    "traits": [{
+      "img": "/hotel/icon/床.png",
+      "desc": "1张大床房 1.5m"
+    }, {
+      "img": "/hotel/icon/楼层.png",
+      "desc": "1 层"
+    }, {
+      "img": "/hotel/icon/人3.png",
+      "desc": "适合两人居住"
+    }, {
+      "img": "/hotel/icon/房屋面积.png",
+      "desc": "15 ~ 18 ㎡"
+    } ,{
+      "img": "/hotel/icon/窗户.png",
+      "desc": "有窗 1.5m"
+    } ,{
+      "img": "/hotel/icon/wifi.png",
+      "desc": "WIFI无线上网"
+    } ,{
+      "img": "/hotel/icon/禁烟.png",
+      "desc": "屋内禁止吸烟"
+    } ,{
+      "img": "/hotel/icon/空调.png",
+      "desc": "空调"
+    } ,{
+      "img": "/hotel/icon/独立卫生间.png",
+      "desc": "独立卫生间"
+    } ,{
+      "img": "/hotel/icon/淋浴.png",
+      "desc": "淋浴"
+    } ,{
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }, {
+      "img": "/hotel/icon/电脑.png",
+      "desc": "电脑上网"
+    }, {
+      "img": "/hotel/icon/电视.png",
+      "desc": "网络电视"
+    }, {
+      "img": "/hotel/icon/吹风机.png",
+      "desc": "吹风机"
+    }],
+    "assorts": [{
+      "title": "便利设施",
+      "desc": "床具：毯子和被子，空调，房间内高速上网，电源充电，窗帘，书桌"
+    }, {
+      "title": "媒体科技",
+      "desc": "WIFI上网、无线电视、电脑办公"
+    }, {
+      "title": "浴室配套",
+      "desc": "独立卫浴、24小时热水、智能马桶、淋浴洗漱、浴室化妆放大镜、一次性洗漱用品、吹风机、拖鞋"
+    }, {
+      "title": "食品饮品",
+      "desc": "零食小吃、方便速食、茶水饮料"
+    }],
+    "descs": [{
+      "title": "住宿事宜介绍：",
+      "list": ["直接消费，携带入住人的有效身份证办理入住，入住必须按照一人一证", "入住之时起，到次日12：00之前退房；如需提前入住或延迟退房，请致电咨询商家；"]
+    }]
+  }
+]
